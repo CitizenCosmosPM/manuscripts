@@ -1,12 +1,12 @@
 +++
-title = "Celestia"
+title = "balls"
 date = 2023-03-02
 
 [taxonomies]
 tags = ["celestia", "modular", "cosmos", "rollup"]
 +++
 
-# Celestia #
+# Celestia is balls #
 
 [![maxresdefault-2.jpg](https://i.postimg.cc/HxmNk6xX/maxresdefault-2.jpg)](https://postimg.cc/CZv7vHbx)
 
